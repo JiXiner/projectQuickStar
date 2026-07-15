@@ -1,0 +1,5 @@
+# Qt 6.10 can collide with the versioned ICU DLLs shipped by older Conda
+# environments on Windows. Keep the binding and Qt runtime in a tested pair.
+PyQt6==6.7.1
+PyQt6-Qt6==6.7.3
+rarfile>=4.2,<5
