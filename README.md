@@ -4,7 +4,11 @@ ProjectQuickStar 是一个面向企业项目接手、代码审计和技术调研
 
 当你进入一家新公司、接手历史系统，或面对缺少文档的大型代码库时，可以先使用 ProjectQuickStar 建立项目全局视图，再沿接口层、业务层和数据访问层逐步阅读源码。
 
-> 当前版本完成了项目扫描、静态代码摘要和报告生成。MySQL、Redis、MQ、服务调用链与 AI 深度解释属于后续阶段，详见[路线图](#路线图)。
+> 当前版本完成了项目扫描、静态代码摘要和报告生成。MySQL、Redis、MQ、服务调用链与 AI 深度解释
+<img width="1196" height="799" alt="image" src="https://github.com/user-attachments/assets/c1b27c17-6605-4c60-9e01-328fbb0a5dc3" />
+<img width="1196" height="799" alt="image" src="https://github.com/user-attachments/assets/fa77fcb5-1926-4466-9231-488844d8cbd0" />
+<img width="1880" height="911" alt="image" src="https://github.com/user-attachments/assets/9382e6cd-3e72-4595-aea6-abe408e2fc59" />
+
 
 ## 核心能力
 
